@@ -1,0 +1,5 @@
+{
+  "name": "Wiezen Scorekeeper Pro",
+  "description": "Een geavanceerde scorebord applicatie voor het kaartspel Wiezen. Houdt scores bij, berekent punten automatisch volgens officiële regels en biedt een AI-assistent voor spelregels.",
+  "requestFramePermissions": []
+}
